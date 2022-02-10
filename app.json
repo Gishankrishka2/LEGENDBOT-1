@@ -1,6 +1,6 @@
 {
-  "name": "Lêɠêɳ̃dẞø†",
-  "description": "Tнє ßєѕτ υѕєяϐοτ мα∂є ϐγ Lêɠêɳ̃dẞøY. Made with Love And By Python Language With Hardwork... ❤ ",
+  "name": "ᒪᗴᘜᗴᑎᗪ ᗷOT sri_lanka",
+  "description": "Tнє ßєѕτ υѕєяϐοτ мα∂є ϐγ ༒❣️☢️╣IrØή❂mคŇ╠☢️❣️༒. Made with Love And By Python Language With Hardwork... ❤ ",
   "logo": "https://te.legra.ph/file/d17467283e73c884834a5.jpg",
   "keywords": [
     "telegram",
@@ -10,9 +10,9 @@
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/LEGEND-OS/LEGENDBOT/",
-  "website": "https://github.com/LEGEND-OS/LEGENDBOT/",
-  "success_url": "https://t.me/Legend_Userbot",
+  "repository": "https://github.com/Gishankrishka2/legendbotsl",
+  "website": "https://github.com/Gishankrishka2/legendbotsl",
+  "success_url": "https://t.me/Gishankrishka1_Cloud",
   "env": {
     "ENV": {
       "description": "Set this to ANYTHING will enable heroku.",
@@ -20,12 +20,12 @@
     },
     "ALIVE_NAME": {
       "description": "Fill your Full name. By default it is LEGEND User",
-      "value": "Lêɠêɳ̃dẞøY",
+      "value": "༒❣️☢️╣IrØή❂mคŇ╠☢️❣️༒",
       "required": false
     },
     "ALIVE_MSG": {
       "description": "Set Custom Alive Message When entering .alive Or .legend  Command.",
-      "value": "Lêɠêɳ̃dẞø† is Online",
+      "value": "༒❣️☢️╣IrØή❂mคŇ╠☢️❣️༒ is Online",
       "required": false
     },
     "ABUSE": {
@@ -50,12 +50,12 @@
     },
     "YOUR_GROUP": {
       "description": "Set Ur Group Username",
-      "value": "@Legend_Userbot",
+      "value": "",
       "required": false
     },
     "YOUR_CHANNEL": {
       "description": "Set Ur Channel Username",
-      "value": "@Official_LegendBot",
+      "value": "@Gishankrishka1_cloud",
       "required": false
     },
     "BOY_OR_GIRL": {
@@ -141,7 +141,7 @@
       "value": ""
     }, 
     "LEGEND_STRING": {
-      "description": "Get this value by running https://repl.it/@KrishnaJaiswal1/LEGENDBOT#main.py ",
+      "description": "Get this value by running [@StringSessiongenslbot](https://t.me/StringSessiongenslbot) ",
       "value": ""
     },
     "HEROKU_API_KEY": {
