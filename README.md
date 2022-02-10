@@ -108,7 +108,7 @@
     - Now Run StringSession Given Below:
    
 
-[![String](https://telegra.ph/file/a6bca4695a54de983c015.jpg)](https://t.me/StringSessiongenslbot) 
+[![String](https://telegra.ph/file/b0a8a910ecb2378dc0d6b.jpg)](https://t.me/StringSessiongenslbot) 
 
     - Click On Generate String
     - Then Click On Green Run Button.
