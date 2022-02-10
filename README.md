@@ -2,7 +2,7 @@
 <b> ᒪᗴᘜᗴᑎᗪ ᗷOT 🇱🇰 </b>
 </h1>
 
-[![LEGENDBOT](https://telegra.ph/file/940263762faaf498f081f.jpg)](https://github.com/Gishankrishka2/LegendBotsl)
+[![LEGENDBOT](https://telegra.ph/file/d09cc3f65dea052441bd3.jpg)](https://github.com/Gishankrishka2/LegendBotsl)
 
 <h6 align="center">
   <b>⚡ LegendBot Is One Of The Fastest & Smoothest Bot On Telegram Based on Telethon⚡</b>
