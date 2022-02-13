@@ -39,7 +39,7 @@
 
 ------
 ## YouTube 📺
-- [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCvp8PY25PTRhFDZjLv3sVfg?style=social)](https://www.youtube.com/channel/UCW0Z3BTxIJF6HAmN6AWUebQ)
+- [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCW0Z3BTxIJF6HAmN6AWUebQ?style=social)](https://www.youtube.com/channel/UCW0Z3BTxIJF6HAmN6AWUebQ)
 - [![YouTube Video Views](https://img.shields.io/youtube/views/9dQgdUJfk_k?label=Tutorial+•+Heroku+•&style=social)](http://www.youtube.com/watch?v=MebWl5qWMlU)
 
 ------------
