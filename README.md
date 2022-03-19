@@ -87,7 +87,7 @@
 
 - `APP_ID`  =  Get this value from my.telegram.org
 - `API_HASH`  =  Get this value from my.telegram.org
-- `LEGEND_STRING`  =  Get this by using [@StringSessiongenslbot](https://t.me/StringSessiongenslbot) or from [terminal](#Terminal)
+- `LEGEND_STRING`  =  Get this by using [@StringSessiongenslbot](https://t.me/Gishankrishka1_sessiongen_bot) or from [terminal](#Terminal)
 - `LOGGER_ID`  =  Make A Channel And Get it's ID.
 - `BOT_TOKEN`  =  Make A Bot From [@BotFather](https://t.me/botfather) and paste it's token.
 - `BOT_USERNAME`  =  Get the username of that Bot made from [@Botfather](https://t.me/botfather)
@@ -108,7 +108,7 @@
     - Now Run StringSession Given Below:
    
 
-[![String](https://telegra.ph/file/b0a8a910ecb2378dc0d6b.jpg)](https://t.me/StringSessiongenslbot) 
+[![String](https://telegra.ph/file/b0a8a910ecb2378dc0d6b.jpg)](https://t.me/Gishankrishka1_sessiongen_bot) 
 
     - Click On Generate String
     - Then Click On Green Run Button.
